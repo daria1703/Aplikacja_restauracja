@@ -262,9 +262,13 @@ section{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-left: 110px;
+    margin-left: 80px;
 }
 
 .btn_contact{
-    margin-left: 450px;
+    /* margin-left: 450px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 80px;
 }
